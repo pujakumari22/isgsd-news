@@ -1,0 +1,14 @@
+﻿.page-banner{
+    background-color: #FFFFFF;
+    background-image: url("https://s3-us-west-2.amazonaws.com/nescode/public/gplay.png");
+    font-family: 'Philosopher', sans-serif;
+    letter-spacing: 1px;
+  }
+
+.jumbotron {
+    padding: 4rem 2rem;
+}
+
+.text-center {
+    text-align: center!important;
+}
